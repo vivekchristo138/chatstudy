@@ -131,7 +131,7 @@ output
 
 <img width="1157" height="325" alt="image" src="https://github.com/user-attachments/assets/775d420a-de3b-490b-bb64-cdeea2dd537c" />
 
-<img width="1157" height="325" alt="Screenshot 2026-05-20 090818" src="https://github.com/user-attachments/assets/57234179-545b-4aac-b1e9-b5749c52d7b2" />
+<img width="1270" height="275" alt="Screenshot 2026-05-20 090803" src="https://github.com/user-attachments/assets/aeff228f-92fd-4ccd-994a-0d9666d5daa0" />
 
 
 ## Result:
